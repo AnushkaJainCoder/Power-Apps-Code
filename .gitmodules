@@ -1,0 +1,3 @@
+[submodule "PowerAppsCodeApps"]
+	path = PowerAppsCodeApps
+	url = https://github.com/your-org-or-username/PowerAppsCodeApps.git
